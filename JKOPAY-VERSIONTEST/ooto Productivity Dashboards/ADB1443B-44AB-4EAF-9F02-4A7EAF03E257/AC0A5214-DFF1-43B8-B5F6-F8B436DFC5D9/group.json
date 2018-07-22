@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AC0A5214-DFF1-43B8-B5F6-F8B436DFC5D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1006,
+    "width": 282,
+    "x": 1188,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30740F5D-B356-45A5-9966-5800B38256B8"
+    },
+    {
+      "class": "group",
+      "id": "8FB9486C-0336-41B5-AB22-CDB095BF84B0"
+    },
+    {
+      "class": "group",
+      "id": "51D2763E-E481-4E28-8AF9-3EC9656D6D21"
+    },
+    {
+      "class": "group",
+      "id": "BE98ABC2-E650-41B0-9220-8BE9574209CD"
+    },
+    {
+      "class": "group",
+      "id": "419898D9-C496-4AB3-9840-77A0D94DD1F7"
+    }
+  ],
+  "name": "side app - ooto space",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5EDFE74-30F9-41D6-86DE-1428DB8BD2C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13.78483076923077,
+    "width": 12.7880129423727,
+    "x": 172,
+    "y": 42.00008615384615
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "443E8499-D5B9-40AF-B332-92D6516F42FC"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F239A56-6CE7-4914-87EB-97B908D423D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8231FD64-B0AA-4118-981A-BDC3FEC9EDAE"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F657E88-ED84-439C-A4CD-62AC2CA41C2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A31BD838-2112-47A2-BF16-C6177C8D6E81"
+    },
+    {
+      "class": "shapePath",
+      "id": "1713888E-5800-4C02-A0AB-2D55C44DD487"
+    },
+    {
+      "class": "shapePath",
+      "id": "E18B84BC-F272-4BA2-B562-66F2963C16BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "FEDAE872-64E9-42D2-B170-B23C3E249475"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4D2BBF1-2DD1-4266-859F-3FFF80CBA81A"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8A51407-A7EC-499F-8D63-3CF350569AC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "83C9FDFF-D4A5-4E13-B889-533473778776"
+    },
+    {
+      "class": "shapePath",
+      "id": "46336EDD-7087-484F-8E5D-E08B8BEEC369"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC7A51E8-CCEE-4E75-8723-2CAAA8BE9A27"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C0C5F91-3EFC-453E-9F0E-0998A0A5F90D"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF385B25-56D5-408D-B959-4B3A3E3EFE98"
+    }
+  ],
+  "name": "calendar icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.6313725490196078,
+          "red": 0.3019607843137255
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

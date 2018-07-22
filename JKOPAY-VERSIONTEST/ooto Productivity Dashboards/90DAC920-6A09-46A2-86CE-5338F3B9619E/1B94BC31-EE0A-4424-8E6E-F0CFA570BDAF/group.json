@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1B94BC31-EE0A-4424-8E6E-F0CFA570BDAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 1439,
+    "x": 106,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E74E7E3-8F39-4BAC-9069-CFAF515CB2C3"
+    },
+    {
+      "class": "group",
+      "id": "8A1BC2ED-3AA4-4438-AB91-480629237CA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBBD0FDC-2A5B-4344-A80E-F89CE456CA0E"
+    },
+    {
+      "class": "group",
+      "id": "80370600-C061-4E5E-936A-1CA6457DD708"
+    }
+  ],
+  "name": "top nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

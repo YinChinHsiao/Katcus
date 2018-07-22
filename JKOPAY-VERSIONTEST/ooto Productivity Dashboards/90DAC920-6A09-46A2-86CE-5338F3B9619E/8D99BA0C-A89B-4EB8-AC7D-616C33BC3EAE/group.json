@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8D99BA0C-A89B-4EB8-AC7D-616C33BC3EAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 802,
+    "width": 282,
+    "x": 1188,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "51CFD4EF-D785-4035-8937-A39536436E53"
+    },
+    {
+      "class": "group",
+      "id": "63B64E0C-A869-4B56-82BC-4A31BA73C811"
+    },
+    {
+      "class": "group",
+      "id": "335C3457-83D1-4FF3-877C-A0065999328F"
+    },
+    {
+      "class": "text",
+      "id": "819E5479-0076-4D3F-B9BD-DB5D2D39843E"
+    },
+    {
+      "class": "text",
+      "id": "18D5E16C-058F-4AFC-95E6-A002C00AB867"
+    },
+    {
+      "class": "group",
+      "id": "B206C5BA-397D-4103-801C-B9C8D6A7B544"
+    }
+  ],
+  "name": "side app - calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

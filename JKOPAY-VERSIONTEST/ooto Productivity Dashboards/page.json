@@ -1,0 +1,73 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "016FAAC1-276E-4AD6-B80C-6CFBA4D6299B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "ADB1443B-44AB-4EAF-9F02-4A7EAF03E257"
+    },
+    {
+      "class": "artboard",
+      "id": "4535881F-9EE2-4668-96F2-77E062405231"
+    },
+    {
+      "class": "artboard",
+      "id": "90DAC920-6A09-46A2-86CE-5338F3B9619E"
+    },
+    {
+      "class": "artboard",
+      "id": "51E8CA0D-56AE-4193-865D-B780ED2C8D4B"
+    }
+  ],
+  "name": "ooto Productivity Dashboards",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

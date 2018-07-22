@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AC2A373E-8C8E-45C6-A3AC-44523D134178",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 41,
+    "x": 135,
+    "y": 2.416666666666629
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5F893460-BBAD-4219-95CF-F247AAC3E584"
+    },
+    {
+      "class": "text",
+      "id": "8DBC5DE7-6028-417E-94D2-844E9744D14F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21490A5D-4275-451D-A8F4-C5E3E799F867"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A37E6B89-F2B3-48C0-B108-0B8F5399BE2E"
+    }
+  ],
+  "name": "invite users button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

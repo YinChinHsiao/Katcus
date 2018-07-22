@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6F7074B7-A506-47B3-813B-F11A6D34DA34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 243,
+    "x": 29,
+    "y": 137
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6BD828BC-064D-44BD-83D7-F77F75571E28"
+    },
+    {
+      "class": "text",
+      "id": "96546EEA-108B-4AE4-880A-F7D2AD83652C"
+    },
+    {
+      "class": "text",
+      "id": "AA5159EF-4794-4146-A9AF-1EC2F0DB3111"
+    },
+    {
+      "class": "group",
+      "id": "9ACDB16A-D7EB-4D69-B464-A8989DBD3A0E"
+    }
+  ],
+  "name": "add quests by email",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

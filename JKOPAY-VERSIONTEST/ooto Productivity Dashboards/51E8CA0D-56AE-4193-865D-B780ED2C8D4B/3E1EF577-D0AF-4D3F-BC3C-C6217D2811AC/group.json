@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3E1EF577-D0AF-4D3F-BC3C-C6217D2811AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 802,
+    "width": 282,
+    "x": 1188,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D221BAE8-A156-47A2-ADDF-7E0135CF8A89"
+    },
+    {
+      "class": "group",
+      "id": "8D09C9E0-98F8-4190-ACA8-BCA6A70D1C9C"
+    },
+    {
+      "class": "group",
+      "id": "666836AF-A830-4256-A4B0-BFC2D4CA8D5A"
+    },
+    {
+      "class": "group",
+      "id": "32189EA3-B3E2-4B94-AF70-4F80397D1A64"
+    },
+    {
+      "class": "group",
+      "id": "A342C387-31B6-41FC-B1EE-1B8A6F46AC8E"
+    },
+    {
+      "class": "group",
+      "id": "464A6394-235A-4C48-B9C1-DE2FCA98893A"
+    },
+    {
+      "class": "group",
+      "id": "5F2D3AB3-9E03-4806-8B80-7BB0111A43DF"
+    },
+    {
+      "class": "text",
+      "id": "268255AF-797F-4389-B598-EAC1A6C2A43A"
+    },
+    {
+      "class": "text",
+      "id": "0D8437AC-0C89-49A8-820C-03AA2FC41723"
+    }
+  ],
+  "name": "side app - forecast",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
